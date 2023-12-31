@@ -7,15 +7,15 @@ I am a Front End Developer actively engaged in web development. I use technologi
 
 ## Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="36" height="36"/> <b style="font-size:20px">HTML</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="25"/> <b>HTML</b>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36"/> <b style="font-size:20px">CSS && Responsive Web Design</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="25" height="25"/> <b>CSS && Responsive Web Design</b>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="36" height="36"/> <b style="font-size:20px">Bootstrap</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="25" height="25"/> <b>Bootstrap</b>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/> <b style="font-size:20px">Javascript</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> <b>Javascript</b>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/> <b style="font-size:20px">React</b>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25"/> <b>React</b>
 
 ## Top Repository
 <div width="100%" align="center">
