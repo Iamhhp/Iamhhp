@@ -1,7 +1,7 @@
 # Hi, I'm Hassan! 👋
 
 ## About Me
-I am a Front End Developer actively engaged in web development. I use technologies such as <b style="font-size:20px">HTML</b>, <b style="font-size:20px">CSS</b>, <b style="font-size:20px">Bootstrap</b>, <b style="font-size:20px">Responsive Web Design</b>, <b style="font-size:20px">Javascript</b>, and <b style="font-size:20px">React</b>.
+I am a Front End Developer actively engaged in web development. 
 
 🧠 I'm currently expanding my knowledge by learning new technologies, with a particular focus on Redux and Nextjs.
 
@@ -16,6 +16,11 @@ I am a Front End Developer actively engaged in web development. I use technologi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> <b>Javascript</b>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25"/> <b>React</b>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="REST API" width="25" height="25"/> <b>REST API</b>
+
+
+
 
 ## Top Repository
 <div width="100%" align="center">
