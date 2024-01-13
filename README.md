@@ -3,7 +3,7 @@
 ## About Me
 I am a Front End Developer actively engaged in web development. 
 
-🧠 I'm currently expanding my knowledge by learning new technologies, with a particular focus on Redux and Nextjs.
+🧠 I'm currently expanding my knowledge by learning new technologies.
 
 ## Skills
 
