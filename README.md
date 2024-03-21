@@ -21,18 +21,16 @@ I am a Front End Developer actively engaged in web development.
 
 
 
-
 ## Top Repository
-<div width="100%" align="center"> 
+<div width="100%" align="center">
   <a href="https://github.com/Iamhhp/website-articles-courses-v2.0" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Iamhhp&repo=website-articles-courses-v2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Iamhhp&repo=website-articles-courses-v2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-   
-   
+  
+<div width="100%" align="center">
   <a href="https://github.com/Iamhhp/memory-game" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Iamhhp&repo=memory-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a> 
-
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
 ##
-
 Feel free to reach out if you have any questions or would like to connect in any way. I'm happy to help!
